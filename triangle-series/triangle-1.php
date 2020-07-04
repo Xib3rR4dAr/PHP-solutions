@@ -9,7 +9,7 @@ if( 'cli' == php_sapi_name() ){
 ?>
 <?php
 
-$lines = 10;
+$lines = 6;
 
 for($i=1, $k=1; $i<=$lines; $i++){
 	for($j=1; $j<$i+1; $j++){
